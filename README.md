@@ -1,4 +1,4 @@
-# Microchip Temperature Test Analysis
+# Chi-Square test for independence
 
 ## Introduction
 
